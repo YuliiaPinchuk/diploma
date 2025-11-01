@@ -1,0 +1,111 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "title": "Speech Strategies — Core Concepts",
+      "questions": [
+        {
+          "q": "What is the main goal of using repetition in a speech?",
+          "options": [
+            "To confuse the audience",
+            "To make ideas more memorable",
+            "To fill time",
+            "To add humor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following best describes ‘ethos’?",
+          "options": [
+            "Appeal to logic",
+            "Appeal to emotion",
+            "Appeal to credibility or character",
+            "Appeal to humor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Steve Jobs often used the phrase 'One more thing...' to:",
+          "options": [
+            "Announce a surprise feature",
+            "End his speech",
+            "Introduce himself",
+            "Change the topic"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which technique does Oprah Winfrey often use to build emotional connection?",
+          "options": [
+            "Data-driven charts",
+            "Technical jargon",
+            "Personal storytelling",
+            "Humor and sarcasm"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Elon Musk’s statement ‘Make life multiplanetary’ is an example of:",
+          "options": [
+            "Visionary framing",
+            "Contrast",
+            "Irony",
+            "Repetition"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "‘Pathos’ in rhetoric primarily appeals to:",
+          "options": [
+            "Logic",
+            "Emotion",
+            "Ethics",
+            "Authority"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why is contrast an effective speech strategy?",
+          "options": [
+            "It highlights differences clearly",
+            "It confuses the audience",
+            "It adds unnecessary detail",
+            "It distracts from the main idea"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which strategy involves using inclusive language such as ‘we’ or ‘us’?",
+          "options": [
+            "Emotional storytelling",
+            "Inclusive rhetoric",
+            "Metaphor",
+            "Contrast"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A metaphor helps a speaker by:",
+          "options": [
+            "Making ideas more vivid and relatable",
+            "Avoiding emotional appeal",
+            "Repeating the same word",
+            "Reducing audience interest"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the primary purpose of speech strategies?",
+          "options": [
+            "To make language complex",
+            "To engage, persuade, and inspire the audience",
+            "To lengthen the speech",
+            "To add entertainment only"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
+

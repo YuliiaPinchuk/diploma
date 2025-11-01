@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Speech Strategies of Business Leaders</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background-color: #f8f9fa; }
+    header { background: #0d6efd; color: white; padding: 1rem; }
+    header h1 { font-size: 1.8rem; margin: 0; }
+    nav ul { list-style: none; display: flex; justify-content: flex-end; gap: 1rem; margin: 0; padding: 0; }
+    nav a { color: white; text-decoration: none; font-weight: 500; }
+    nav a:hover { text-decoration: underline; }
+    .page { display: none; }
+    .container-main { margin-top: 2rem; }
+  </style>
+</head>
+<body>
+
+<header class="d-flex justify-content-between align-items-center">
+  <h1>Speech Strategies of Business Leaders</h1>
+  <nav>
+    <ul>
+      <li><a href="#" class="nav-link" data-target="home">Home</a></li>
+      <li><a href="#" class="nav-link" data-target="strategies">Speech Strategies</a></li>
+      <li><a href="#" class="nav-link" data-target="glossary">Glossary</a></li>
+      <li><a href="#" class="nav-link" data-target="tests" id="testsMenu">Tests</a></li>
+      <li><a href="#" class="nav-link" data-target="register" id="userMenu">Register/Login</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="container container-main">
+  <!-- HOME -->
+  <section id="home" class="page">
+    <h2 class="mb-4">Famous Leaders and Their Speaking Styles</h2>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm">
+          <img src="images/jobs.jpg" class="card-img-top" alt="Steve Jobs">
+          <div class="card-body">
+            <h5 class="card-title">Steve Jobs</h5>
+            <p class="card-text">Co-founder of Apple Inc. Known for his minimalist slides, storytelling, and the famous phrase “One more thing.” Jobs mastered emotional pacing, combining clarity and drama to keep his audience captivated.</p>
+            <p><em>Key trait:</em> Simplicity and suspense.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm">
+          <img src="images/musk.jpg" class="card-img-top" alt="Elon Musk">
+          <div class="card-body">
+            <h5 class="card-title">Elon Musk</h5>
+            <p class="card-text">CEO of Tesla and SpaceX. Musk uses visionary rhetoric and clear futuristic framing — such as “Make life multiplanetary.” His authenticity and off-script tone create a sense of honesty and ambition.</p>
+            <p><em>Key trait:</em> Visionary appeal.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm">
+          <img src="images/oprah.jpg" class="card-img-top" alt="Oprah Winfrey">
+          <div class="card-body">
+            <h5 class="card-title">Oprah Winfrey</h5>
+            <p class="card-text">Talk show host and philanthropist. Oprah is a master of pathos — connecting through empathy, storytelling, and personal experience. Her ability to make audiences feel seen and heard is unmatched.</p>
+            <p><em>Key trait:</em> Emotional connection.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STRATEGIES -->
+  <section id="strategies" class="page">
+    <h2>Speech Strategies</h2>
+    <table class="table table-bordered">
+      <thead><tr><th>Strategy</th><th>Description</th><th>Example</th></tr></thead>
+      <tbody>
+        <tr><td>Repetition</td><td>Repeating key phrases for emphasis.</td><td>“One more thing…” — Steve Jobs</td></tr>
+        <tr><td>Visionary framing</td><td>Setting a long-term inspiring goal.</td><td>“Make life multiplanetary.” — Elon Musk</td></tr>
+        <tr><td>Storytelling</td><td>Using personal stories to connect emotionally.</td><td>Oprah Winfrey’s life anecdotes.</td></tr>
+        <tr><td>Contrast</td><td>Comparing two ideas to highlight difference.</td><td>Jobs: “We’re not just making computers; we’re changing the world.”</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- GLOSSARY -->
+  <section id="glossary" class="page">
+    <h2>Glossary</h2>
+    <table class="table table-striped">
+      <tbody id="glossary-body"></tbody>
+    </table>
+  </section>
+
+  <!-- TESTS -->
+  <section id="tests" class="page">
+    <h2>Tests</h2>
+    <div id="lockedMessage" class="alert alert-warning">You must log in or register to access the tests.</div>
+    <div id="test-controls" class="d-none">
+      <input type="file" id="loadTestFile" accept=".json" class="form-control w-auto d-inline-block">
+      <button id="startTest" class="btn btn-primary ms-2" disabled>Start Test</button>
+    </div>
+    <div id="test-area" class="mt-4"></div>
+  </section>
+
+  <!-- REGISTER -->
+  <section id="register" class="page">
+    <h2>Registration / Login</h2>
+    <form id="regForm" class="mb-3">
+      <input id="regName" type="text" placeholder="Name" class="form-control mb-2">
+      <input id="regEmail" type="email" placeholder="Email" class="form-control mb-2">
+      <input id="regPass" type="password" placeholder="Password" class="form-control mb-2">
+      <button class="btn btn-success">Register</button>
+    </form>
+    <div id="regMsg" class="text-success mb-4"></div>
+
+    <h3>Login</h3>
+    <form id="loginForm">
+      <input id="loginEmail" type="email" placeholder="Email" class="form-control mb-2">
+      <input id="loginPass" type="password" placeholder="Password" class="form-control mb-2">
+      <button class="btn btn-primary">Login</button>
+    </form>
+    <div id="loginMsg" class="text-info mt-2"></div>
+  </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
