@@ -1,0 +1,214 @@
+{
+    "tests": [
+        {
+            "id": 5,
+            "title": "Communication Tactics and Rhetoric (Variant 5)",
+            "questions": [
+                {
+                    "q": "\"You vicious cunt!\" / \"Get the ludes!\"",
+                    "options": [
+                        "Shock tactic",
+                        "Dominance",
+                        "Humor",
+                        "Manipulation"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "Continue: \"We're starting on time.\"",
+                    "options": [
+                        "Or we don't start at all.",
+                        "Maybe later.",
+                        "Wait 15 minutes.",
+                        "Time doesn't matter."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Continue: \"Tell all the brokers to sell.\"",
+                    "options": [
+                        "Drive the price down.",
+                        "Evaluate risks.",
+                        "Wait reaction.",
+                        "Advise caution."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Continue: \"You didn't have seconds. You had three weeks.\"",
+                    "options": [
+                        "So fix it.",
+                        "Let's brainstorm.",
+                        "We'll handle it together.",
+                        "Not a big deal."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Urgency — belongs to:",
+                    "options": [
+                        "Manipulation",
+                        "Dominance",
+                        "Humor",
+                        "Motivation"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Scarcity principle — belongs to:",
+                    "options": [
+                        "Motivation",
+                        "Dominance",
+                        "Manipulation",
+                        "Humor"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "q": "Authority cues — belongs to:",
+                    "options": [
+                        "Motivation",
+                        "Self-presentation",
+                        "Manipulation",
+                        "Humor"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "Motivation before product launch:",
+                    "options": [
+                        "You're amateurs.",
+                        "We start now.",
+                        "Everyone is waiting — and you'll deliver.",
+                        "If you mess up — your fault."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "q": "\"Look at me... You know who I am, right?\"",
+                    "options": [
+                        "Self-presentation",
+                        "Aggressive dominance",
+                        "Persuasion",
+                        "Motivation",
+                        "Humor"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "\"If you want to succeed, act before someone else moves.\"",
+                    "options": [
+                        "Self-presentation",
+                        "Aggressive dominance",
+                        "Persuasion",
+                        "Motivation",
+                        "Humor"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "q": "\"You came a half-inch from putting this company out of business.\"",
+                    "options": [
+                        "Self-presentation",
+                        "Aggressive dominance",
+                        "Persuasion",
+                        "Motivation",
+                        "Humor"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "\"This is a '55 Margaux. And yes — it's nine in the morning.\"",
+                    "options": [
+                        "Self-presentation",
+                        "Aggressive dominance",
+                        "Persuasion",
+                        "Motivation",
+                        "Humor"
+                    ],
+                    "answer": 4
+                },
+                {
+                    "q": "Jobs calls his team B players.",
+                    "options": [
+                        "Pressure",
+                        "Motivation",
+                        "Humor",
+                        "Self-presentation"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Belfort shouts: \"Drive the price down!\"",
+                    "options": [
+                        "Aggressive dominance",
+                        "Persuasion",
+                        "Humor",
+                        "Motivation"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Jobs says: \"They don't get a vote.\"",
+                    "options": [
+                        "Excluding audience",
+                        "Authoritative control",
+                        "Persuasion",
+                        "Sarcasm"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "\"Do it, Andy.\"",
+                    "options": [
+                        "Authority",
+                        "Pressure",
+                        "Inspiration",
+                        "Ridicule"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "\"You're being ridiculous. I'll watch you do it yourself.\"",
+                    "options": [
+                        "Authority",
+                        "Pressure",
+                        "Inspiration",
+                        "Ridicule"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "q": "\"I'm proud to say Apple donates millions...\"",
+                    "options": [
+                        "Authority",
+                        "Pressure",
+                        "Inspiration",
+                        "Ridicule"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Smile and dial / Make us money / Urgency — strategy:",
+                    "options": [
+                        "Motivational",
+                        "Manipulative",
+                        "Dominance",
+                        "Humor"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "\"Everyone is waiting for the Mac... Look at their faces...\"",
+                    "options": [
+                        "Self-presentation",
+                        "Irony",
+                        "Motivation",
+                        "Threat"
+                    ],
+                    "answer": 0
+                }
+            ]
+        }
+    ]
+}

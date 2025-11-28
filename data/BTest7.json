@@ -1,0 +1,160 @@
+{
+    "tests": [
+        {
+            "id": 7,
+            "title": "Business and Communication Core Concepts (Variant 7)",
+            "questions": [
+                {
+                    "q": "What is planning?",
+                    "options": [
+                        "Thinking about future steps",
+                        "Forgetting tasks",
+                        "Stopping work",
+                        "Doing nothing"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Which phrase builds rapport?",
+                    "options": [
+                        "I understand your point.",
+                        "I don't care.",
+                        "This is stupid.",
+                        "Be quiet."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "What is communication?",
+                    "options": [
+                        "Sharing information with people",
+                        "Sleeping at work",
+                        "Sending money",
+                        "Cooking"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "What is a business leader?",
+                    "options": [
+                        "A person who manages a team",
+                        "A person who types documents",
+                        "A person who only sells products",
+                        "A person who cleans offices"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "What does motivation mean?",
+                    "options": [
+                        "Making people feel inspired",
+                        "Making people angry",
+                        "Stopping people from working",
+                        "Ignoring people"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "What is a presentation?",
+                    "options": [
+                        "A formal talk to an audience",
+                        "A lunch meeting",
+                        "A small email",
+                        "A joke"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Which phrase shows confidence?",
+                    "options": [
+                        "I think maybe...",
+                        "I'm not sure...",
+                        "Look at me — I can do this.",
+                        "Sorry, I can't."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "q": "Which phrase is polite persuasion?",
+                    "options": [
+                        "Do it now!",
+                        "Could you please try this?",
+                        "You must listen to me!",
+                        "Stop talking!"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "What is a team?",
+                    "options": [
+                        "One person",
+                        "A group of people working together",
+                        "A building",
+                        "A computer"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "What does feedback mean?",
+                    "options": [
+                        "Information that helps improve work",
+                        "Lunch break",
+                        "Holiday",
+                        "A financial bonus"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Which phrase motivates a team?",
+                    "options": [
+                        "You will never succeed",
+                        "You're ready — let's do this!",
+                        "I don't care",
+                        "Stop working"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "What is a meeting?",
+                    "options": [
+                        "A planned discussion",
+                        "A holiday",
+                        "A shopping trip",
+                        "A gym class"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "Which phrase shows leadership?",
+                    "options": [
+                        "Let's find a solution together.",
+                        "I don't want to help.",
+                        "You decide everything.",
+                        "I won't speak."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "q": "What is a goal?",
+                    "options": [
+                        "A place to eat",
+                        "Something you want to achieve",
+                        "A joke",
+                        "A bad result"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "q": "Which phrase is aggressive?",
+                    "options": [
+                        "Please try again.",
+                        "You must improve this now!",
+                        "Could we discuss this?",
+                        "Let's think together."
+                    ],
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}
