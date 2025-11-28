@@ -5,7 +5,7 @@
 
 ## 🌟 Overview
 
-**Lulka** is a comprehensive web application developed as part of a Diploma Thesis (academic project).  
+**This** is a comprehensive web application developed as part of a Diploma Thesis (academic project).  
 It focuses on exploring and analyzing various **speech strategies** and **communicative approaches** used by prominent business leaders.
 
 The platform provides structured academic content to help users understand, identify, and categorize rhetorical tactics in business communication—from executive addresses to motivational speeches.
